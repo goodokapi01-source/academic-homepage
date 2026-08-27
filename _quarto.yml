@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MAO Xilin"
+  site-url: "https://goodokapi01-source.github.io/academic-homepage/"
+  description: "Academic homepage of MAO Xilin, PhD student in Statistics in Qiuzhen College, Tsinghua."
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: notes.qmd
+        text: Notes
+      - href: pictures.qmd
+        text: Pictures
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: "https://github.com/goodokapi01-source"
+        aria-label: GitHub
+      - icon: envelope
+        href: "mailto:mxl24@mails.tsinghua.edu.cn"
+        aria-label: Email
+  page-footer:
+    left: "(c) 2026 MAO Xilin"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    toc-depth: 3
+    code-copy: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,42 @@
+publications:
+  - title: "Transporting Trial Evidence Under Posterior Drift and Possible Hidden Confounding"
+    authors: "Xilin Mao, Bosen Cui, and Yuhong Yang"
+    year: 2026
+    status: "Submitted"
+    venue: "Journal of the American Statistical Association (JASA)"
+    pdf: "https://arxiv.org/pdf/2608.17999"
+    arxiv: "https://arxiv.org/abs/2608.17999"
+    summary: "Develops a robust posterior-drift framework for transporting randomized-trial evidence to an observational target population under possible hidden confounding."
+
+  - title: "Integrating Randomized Trials and Observational Data for Conditional Treatment Effects"
+    authors: "Isaac Mao and Collaborators"
+    year: 2026
+    status: "Preprint"
+    venue: "Preprint"
+    pdf: "#"
+    arxiv: "#"
+    code: "#"
+    slides: "#"
+    summary: "Studies how trial and observational evidence can be combined to estimate heterogeneous effects under distribution shift."
+
+  - title: "Diagnostics for Bradley-Terry Models Under Non-Transitive Preferences"
+    authors: "Isaac Mao"
+    year: 2025
+    status: "Under review"
+    venue: "Submitted"
+    pdf: "#"
+    arxiv: "#"
+    code: "#"
+    slides: "#"
+    summary: "Proposes goodness-of-fit diagnostics for pairwise-comparison models when preference cycles may be present."
+
+  - title: "Ranking Models and Preference Optimization: Statistical Notes"
+    authors: "Isaac Mao"
+    year: 2025
+    status: "Published"
+    venue: "Technical note"
+    pdf: "#"
+    arxiv: "#"
+    code: "#"
+    slides: "#"
+    summary: "Connects classical ranking models with modern preference-optimization objectives used in language-model training."

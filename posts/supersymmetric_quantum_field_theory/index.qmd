@@ -1,0 +1,11 @@
+---
+title: "Supersymmetric quantum field theory"
+date: "2024-12"
+categories:
+  - Paper reading notes
+description: "Notes on supersymmetric quantum field thoery."
+---
+
+This note gives a quick introduction to the supersymmetric quantum field theory in dimension 0,1.
+
+[Download PDF](quantum_field_note.pdf)

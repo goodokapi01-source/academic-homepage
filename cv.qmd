@@ -1,0 +1,67 @@
+---
+title: "CV"
+description: "Curriculum vitae and academic profile."
+---
+
+[Download PDF CV](files/CV_26_8.pdf){.btn .btn-primary}
+
+## Contact
+
+- **Name:** Xilin Mao
+- **Location:** Beijing, China
+- **Email:** [mxl24@mails.tsinghua.edu.cn](mailto:mxl24@mails.tsinghua.edu.cn)
+
+## Education
+
+- **Ph.D. in Statistics**, Qiuzhen College, Tsinghua University, Sept 2024 - Jun 2029 (expected)
+  - Advisor: Prof. Yuhong Yang
+  - Research area: Machine Learning, Causal Inference, Model Averaging and statistical theory in LLMs 
+
+
+- **B.S. in Mathematics**, School of Mathematical Sciences, University of Chinese Academy of Sciences, Sept 2020 - Jul 2024
+  - Coursework: Homotopy Theory in Complex Geometry 
+
+## Projects
+
+### Model Averaging in Policy Learning
+
+May 2026 – Now
+
+- Develop model averaging methods under some criterions in the field of policy learning with or without unconfoundedness assumption.  
+            
+
+### Data Combination in Causal Inference
+
+May 2025 - Aug 2026
+
+- Develop efficient estimators for the difference of CATEs between an observational study and a randomized trial, with unobserved confounders appearing in the observational study.
+- Tools used: semiparametric inference, M-estimators, empirical processes, sensitivity analysis.
+
+### Alpha Factor Mining With LLMs
+
+Apr 2026 - Jun 2026
+
+- Surveyed this field and reproduced two papers.
+- Based on the reproduction results, plan to propose new algorithms in the coming months.
+
+### Homotopy Theory in Complex Geometry
+
+Nov 2023 - May 2024
+
+- Undergraduate dissertation supervised by Prof. Songyan Xie.
+- Surveyed model category structure and Oka theory.
+
+## Teaching
+
+- **Teaching Assistant, Linear Algebra A**, University of Chinese Academy of Sciences, Spring 2024
+- **Teaching Assistant, Analysis I**, Tsinghua University, Autumn 2025
+- **Teaching Assistant, Electrodynamics**, Tsinghua University, Spring 2026
+
+## Awards
+
+- **Team Competition Bronze Medal**, S.-T. Yau College Student Mathematics Contest, Yau Mathematical Sciences Center, Tsinghua University, Jun 2023
+- **First-Class Academic Scholarship**, University of Chinese Academy of Sciences, Nov 2022
+
+## Skills
+
+- **Programming languages:** Python, R, C, Matlab

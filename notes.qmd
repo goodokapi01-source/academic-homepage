@@ -1,0 +1,20 @@
+---
+title: "Notes"
+description: "Short notes, paper readings, and technical posts."
+---
+
+This page collects short notes on paper reading, coding, and LaTeX.
+
+## Posts
+
+### [Welcome](posts/welcome/)
+
+May 30, 2026
+
+A short note introducing this site.
+
+### [Quantum Field Notes](posts/supersymmetric_quantum_field_theory/)
+
+December, 2026
+
+Notes on supersymmetric quantum field theory.

@@ -1,0 +1,106 @@
+---
+title: "Isaac Mao"
+subtitle: "PhD student in Statistics working on causal inference, data integration, and preference learning."
+description: "Personal academic homepage of Isaac Mao."
+toc: false
+---
+
+::: {.home-layout}
+::: {.home-sidebar}
+![](images/photo_korean.jpg){fig-alt="Placeholder profile photo of Isaac Mao"}
+
+::: {.sidebar-affiliation}
+Ph.D. student in Statistics  
+Qiuzhen College, Tsinghua University
+:::
+
+::: {.sidebar-links}
+[CV](files/CV.pdf){.btn .btn-outline-primary}
+:::
+
+<pre id="ascii-companion" class="ascii-companion" aria-label="Random ASCII animal"></pre>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const animals = [
+` /\\_/\\\\
+( o.o )
+ > ^ <`,
+`  /\\_/\\
+ ( -.- )
+  /   \\`,
+` (\\_/)
+ (.. )
+ / >`,
+`  __
+ (o )>
+ /))`,
+`  /\\_/\\
+ ( . . )
+  = w =`,
+`  _   _
+ ( \\_/ )
+ (='.'=)
+ (\")_(\")`
+  ];
+  const target = document.getElementById("ascii-companion");
+  if (target) {
+    target.textContent = animals[Math.floor(Math.random() * animals.length)];
+  }
+});
+</script>
+:::
+
+::: {.home-main}
+## About me
+
+I'm MAO Xilin, a Statistics PhD student at Qiuzhen College, Tsinghua University, advised by Professor Yang Yuhong. Before coming to Tsinghua University, I received my Bachelor's degree in Mathematics from University of Chinese Academy of Sciences.
+
+I have a broad interest in mathematics, computer science, and physics. Currently, my main focus is on statistical problems, especially statistical theories related to causal inference and large language models.
+
+## Research interests {.research-interests}
+
+- Data integration in Causal inference
+- Policy learning and Preference learning
+- Model Averaging, Model Selection
+- Reward modeling in RLHF
+
+
+## Publications
+
+### Transporting Trial Evidence Under Posterior Drift and Possible Hidden Confounding
+
+**Status:** Submitted to the *Journal of the American Statistical Association* (JASA)  
+**Xilin Mao, Bosen Cui, and Yuhong Yang** (2026). *arXiv:2608.17999*.
+
+[PDF](https://arxiv.org/pdf/2608.17999) · [arXiv](https://arxiv.org/abs/2608.17999)
+
+
+## Recent Notes
+
+- [Welcome](posts/welcome/) introduces the purpose and structure of this site.
+- Future notes will include paper summaries, technical derivations, and reproducible coding examples.
+
+## Contact
+
+::: {.contact-list}
+::: {.contact-row}
+**Email**
+
+[mxl24 [at] mails [dot] tsinghua [dot] edu [dot] cn](mailto:mxl24@mails.tsinghua.edu.cn)
+:::
+
+::: {.contact-row}
+**GitHub**
+
+[goodokapi01-source](https://github.com/goodokapi01-source)
+:::
+
+::: {.contact-row}
+**Affiliation**
+
+Qiuzhen College, Tsinghua University
+:::
+:::
+:::
+:::

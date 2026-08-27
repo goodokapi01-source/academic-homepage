@@ -1,0 +1,12 @@
+---
+title: "Welcome"
+date: "2026-05-30"
+categories:
+  - Paper reading notes
+  - Coding and LaTeX
+description: "A short note introducing this site."
+---
+
+Welcome to my personal academic homepage. I plan to use this notes section for short technical write-ups, paper summaries, derivations, and reproducible examples.
+
+The site is intentionally simple: most updates should involve editing a `.qmd` page, adding a post under `posts/`, or updating the YAML files in `data/`.

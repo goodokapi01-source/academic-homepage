@@ -1,0 +1,17 @@
+# Quarto-generated files
+/.quarto/
+/_site/
+
+# Local operating-system files
+.DS_Store
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and secrets
+.venv/
+.env
+
+**/*.quarto_ipynb
