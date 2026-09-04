@@ -3,7 +3,7 @@ title: "CV"
 description: "Curriculum vitae and academic profile."
 ---
 
-[Download PDF CV](files/CV_26_8.pdf){.btn .btn-primary}
+[Download PDF CV](files/CV_26_9.pdf){.btn .btn-primary}
 
 ## Contact
 
@@ -11,57 +11,83 @@ description: "Curriculum vitae and academic profile."
 - **Location:** Beijing, China
 - **Email:** [mxl24@mails.tsinghua.edu.cn](mailto:mxl24@mails.tsinghua.edu.cn)
 
+## Research Interests
+
+Statistical machine learning, causal inference, model selection and aggregation, 
+and statistical theory for large language models.
+
 ## Education
 
-- **Ph.D. in Statistics**, Qiuzhen College, Tsinghua University, Sept 2024 - Jun 2029 (expected)
+- **Ph.D. in Statistics**, Qiuzhen College, Tsinghua University  
+  *Sep 2024 – Jun 2029 (expected)*
+  
   - Advisor: Prof. Yuhong Yang
-  - Research area: Machine Learning, Causal Inference, Model Averaging and statistical theory in LLMs 
+  - Current GPA: 3.80/4.00
 
+- **B.S. in Mathematics**, School of Mathematical Sciences, University of Chinese Academy of Sciences  
+  *Sep 2020 – Jul 2024*
+  
+  - GPA: 3.87/4.00
 
-- **B.S. in Mathematics**, School of Mathematical Sciences, University of Chinese Academy of Sciences, Sept 2020 - Jul 2024
-  - Coursework: Homotopy Theory in Complex Geometry 
+## Research
 
-## Projects
+### Model Aggregation for Policy Learning
 
-### Model Averaging in Policy Learning
+*May 2026 – Present*
 
-May 2026 – Now
-
-- Develop model averaging methods under some criterions in the field of policy learning with or without unconfoundedness assumption.  
-            
+- Developing model-aggregation and exponential-weighting methods for statistical policy learning, including settings with unmeasured confounding.
+- Studying theoretical performance guarantees for aggregated decision rules and evaluating the proposed methods through simulation experiments.
+- Methods include statistical decision theory, model aggregation, machine learning, and causal inference.
 
 ### Data Combination in Causal Inference
 
-May 2025 - Aug 2026
+*May 2025 – Aug 2026*
 
-- Develop efficient estimators for the difference of CATEs between an observational study and a randomized trial, with unobserved confounders appearing in the observational study.
-- Tools used: semiparametric inference, M-estimators, empirical processes, sensitivity analysis.
+**Manuscript submitted to the Journal of the American Statistical Association (JASA).**
 
-### Alpha Factor Mining With LLMs
+- Developed efficient estimators for differences in conditional average treatment effects (CATEs) between randomized trials and observational studies in the presence of unmeasured confounding.
+- Derived theoretical properties of the proposed estimators and developed sensitivity-analysis procedures for violations of causal identification assumptions.
+- Used semiparametric inference, M-estimation, empirical-process theory, and simulation studies to establish and evaluate statistical performance.
 
-Apr 2026 - Jun 2026
+### Alpha Factor Mining with Large Language Models
 
-- Surveyed this field and reproduced two papers.
-- Based on the reproduction results, plan to propose new algorithms in the coming months.
+*Apr 2026 – Jun 2026*
+
+- Surveyed recent methods for using large language models to generate and discover quantitative trading factors and reproduced two representative research papers.
+- Implemented and analyzed factor-generation and evaluation pipelines, with emphasis on the statistical validation of candidate signals.
+- Proposed an improved factor-mining algorithm based on findings from the reproduction studies.
 
 ### Homotopy Theory in Complex Geometry
 
-Nov 2023 - May 2024
+*Nov 2023 – May 2024*
 
-- Undergraduate dissertation supervised by Prof. Songyan Xie.
-- Surveyed model category structure and Oka theory.
+- Undergraduate thesis supervised by Prof. Songyan Xie.
+- Studied model-category structures and Oka theory from a homotopy-theoretic perspective.
 
 ## Teaching
 
-- **Teaching Assistant, Linear Algebra A**, University of Chinese Academy of Sciences, Spring 2024
-- **Teaching Assistant, Analysis I**, Tsinghua University, Autumn 2025
-- **Teaching Assistant, Electrodynamics**, Tsinghua University, Spring 2026
+- **Teaching Assistant, Electrodynamics**, Tsinghua University  
+  *Spring 2026*
 
-## Awards
+- **Teaching Assistant, Analysis I**, Tsinghua University  
+  *Autumn 2025*
 
-- **Team Competition Bronze Medal**, S.-T. Yau College Student Mathematics Contest, Yau Mathematical Sciences Center, Tsinghua University, Jun 2023
-- **First-Class Academic Scholarship**, University of Chinese Academy of Sciences, Nov 2022
+- **Teaching Assistant, Linear Algebra A**, University of Chinese Academy of Sciences  
+  *Spring 2024*
 
-## Skills
+## Awards and Honors
 
-- **Programming languages:** Python, R, C, Matlab
+- **Bronze Medal, Team Competition, S.-T. Yau College Student Mathematics Contest**,  
+  Yau Mathematical Sciences Center, Tsinghua University  
+  *Jun 2023*
+
+- **First-Class Academic Scholarship**,  
+  University of Chinese Academy of Sciences  
+  *Nov 2022*
+
+## Technical Skills
+
+- **Programming:** Python, R; working knowledge of C and MATLAB
+- **Statistical Methods:** machine learning, causal inference, semiparametric inference, empirical processes, model selection and aggregation
+- **Other:** LaTeX
+

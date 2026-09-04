@@ -7,7 +7,7 @@ toc: false
 
 ::: {.home-layout}
 ::: {.home-sidebar}
-![](images/photo_korean.jpg){fig-alt="Placeholder profile photo of Isaac Mao"}
+![](images/photo_myself.jpg){fig-alt="Placeholder profile photo of Isaac Mao"}
 
 ::: {.sidebar-affiliation}
 Ph.D. student in Statistics  
